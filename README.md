@@ -68,18 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzrizwan29907&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itzrizwan29907&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 📚 Academic Relay
@@ -159,6 +147,18 @@ CGPA: **9.96 / 10**
 - Python for Data Analysis
 - SQL & Databases
 - Software Development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzrizwan29907&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itzrizwan29907&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
