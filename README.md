@@ -15,7 +15,7 @@
 - 🏅 Completed **Diploma in CSE** from **Jyothishmathi Institute of Technology & Science, Karimnagar** — **CGPA: 9.96/10**
 - 💻 Strong programming foundation in **C, C++, Java, and Python**
 - 📊 Focused on **Data Science, AI/ML, and Analytics**
-- 🌱 Currently learning **Python for Data Analysis, SQL, Power BI, and Machine Learning**
+- 🌱 Currently learning **Python for Data Science, SQL, Power BI, Artificial Intelligence and Machine Learning**
 - 🛠️ Building real-world projects with **Flask, PostgreSQL, and Supabase**
 - ⚡ Fun fact: I like turning messy data into clear, useful stories
 
