@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Syed Rizwan</h1>
-<h3 align="center">Computer Science | Aspiring Data Scientist | Data Science • AI & ML • Analytics</h3>
+<h3 align="center">Computer Science Engineer | Aspiring Data Scientist | Data Science • AI & ML • Analytics</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
