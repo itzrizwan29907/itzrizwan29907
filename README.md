@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=CSE+Student+%40+CBIT+%F0%9F%8E%93;Aspiring+Data+Scientist+%F0%9F%93%8A;Learning.+Building.+Securing+my+place+in+AI+%26+Data+Science.+%F0%9F%9A%80;Python+%7C+SQL+%7C+Power+BI+%7C+Flask+%E2%9A%99%EF%B8%8F;Turning+data+into+decisions+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=CSE+Student+%40+CBIT+%F0%9F%8E%93;Aspiring+Data+Scientist;Learning.+Building.+Securing+my+place+in+AI+%26+Data+Science.+%F0%9F%9A%80;Python+%7C+SQL+%7C+Power+BI+%7C+Flask+%E2%9A%99%EF%B8%8F;Turning+data+into+decisions+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
