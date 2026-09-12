@@ -11,14 +11,13 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **B.E. in Computer Science Engineering** at **CBIT**
-- 🏅 Completed my **Diploma in Computer Science Engineering** from **Jyothishmathi Institute of Technology & Science, Karimnagar** with a **CGPA of 9.96/10**
-- 💻 Familiar with **C, C++, and .NET (C#)** — built a strong programming foundation during my diploma
-- 📊 Interested in **Data Science, AI, Analytics, and Software Development**
+- 🎓 Pursuing **B.E. in Computer Science Engineering** at **CBIT**
+- 🏅 Completed **Diploma in CSE** from **Jyothishmathi Institute of Technology & Science, Karimnagar** — **CGPA: 9.96/10**
+- 💻 Strong programming foundation in **C, C++, Java, and Python**
+- 📊 Focused on **Data Science, AI/ML, and Analytics**
 - 🌱 Currently learning **Python for Data Analysis, SQL, Power BI, and Machine Learning**
 - 🛠️ Building real-world projects with **Flask, PostgreSQL, and Supabase**
 - ⚡ Fun fact: I like turning messy data into clear, useful stories
-- 🌐 Live project: **[Academic Relay](https://academic-relay.onrender.com)**
 
 ---
 
