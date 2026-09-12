@@ -12,6 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 Currently pursuing **B.E. in Computer Science Engineering** at **CBIT**
+- 🏅 Completed my **Diploma in Computer Science Engineering** from **Jyothishmathi Institute of Technology & Science, Karimnagar** with a **CGPA of 9.96/10**
 - 📊 Interested in **Data Science, AI, Analytics, and Software Development**
 - 🌱 Currently learning **Python for Data Analysis, SQL, Power BI, and Machine Learning**
 - 🛠️ Building real-world projects with **Flask, PostgreSQL, and Supabase**
@@ -133,6 +134,11 @@ Tracked 6184K revenue and 177K boxes shipped across 6 countries, with breakdowns
 
 **Chaitanya Bharathi Institute of Technology (CBIT)**
 B.E. — Computer Science Engineering
+*Currently Pursuing*
+
+**Jyothishmathi Institute of Technology & Science, Karimnagar**
+Diploma — Computer Science Engineering
+CGPA: **9.96 / 10**
 
 ---
 
