@@ -73,7 +73,7 @@
 
 A centralized academic resource platform that connects students and faculty through a single, organized system.
 
-It brings circulars, timetables, assignments, notes, marks, previous-year papers, and syllabi together in one place — with secure authentication and password recovery.
+It brings circulars, timetables, assignments, notes, marks and other resources together in one place — with secure authentication and password recovery.
 
 **Tech Stack:** Python • Flask • PostgreSQL • Supabase • JavaScript • Render
 
