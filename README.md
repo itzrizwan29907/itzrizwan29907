@@ -118,12 +118,4 @@ B.E. — Computer Science Engineering
 
 ---
 
-## 📊 GitHub Stats
-
-![Syed Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzrizwan29907&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzrizwan29907&layout=compact&theme=default&hide_border=true)
-
----
-
 ⭐ *Still learning. Still improving. Building one project at a time.*
